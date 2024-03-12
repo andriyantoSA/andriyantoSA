@@ -31,7 +31,7 @@
 <div align="left">
   <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,selenium,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java,py,selenium,cypress,gherkin,maven" />
   </a>
 </p>
 </div>
@@ -45,7 +45,7 @@
 <div align="left">
   <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,selenium,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,pycharm,vscode,jenkins,mongodb,postman,sqlite,postgres" />
   </a>
 </p>
 </div>
