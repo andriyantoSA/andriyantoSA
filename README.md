@@ -14,10 +14,8 @@
 
 <h2>📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</h2>
   <p>
-<ul>
-  <li>🖥 Quality Assurance Manual and Automation</li>
-  <li>🌐 I live in Bogor, West Java, Indonesia</li>
-</ul>
+    🖥 Quality Assurance Manual and Automation</br>
+    🌐 I live in Bogor, West Java, Indonesia</br>
 </p>
 
 
