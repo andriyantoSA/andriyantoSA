@@ -8,6 +8,7 @@
 
 <h1 align="center">
   <a href="https://www.instagram.com/andriyanto_sa/"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=%23ffffff&link=https%3A%2F%2Fwww.instagram.com%2Fandriyanto_sa%2F"></a>
+  <a><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=%23ffffff"></a>
 </h1>
 
 
