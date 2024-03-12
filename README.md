@@ -5,6 +5,7 @@
 </h1>
 
 <h4 align="center">>Hey There!, I am Andri 👋</h4>
-![https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF]()
+![Static Badge](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=%23ffffff)
+
 
 
