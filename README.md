@@ -13,10 +13,11 @@
 </h1>
 
 <h2>📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+  <p>
 <ul>
   <li>🖥 Quality Assurance Manual and Automation</li>
 </ul>
-
+</p>
 </h2>
 
 
