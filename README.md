@@ -12,18 +12,64 @@
   <a href="https://www.facebook.com/andriyantoSA"><img alt="Static Badge" src="https://img.shields.io/badge/Facebook-316FF6?style=for-the-badge&logo=facebook&logoColor=%23ffffff"></a>
 </div>
 
-<h2>📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</h2>
-  <p>
-    🖥 Quality Assurance Manual and Automation</br>
-    🌐 I live in Bogor, West Java, Indonesia</br>
-    
-</p>
+<img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 
+###
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<h2 align="left">📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</h2>
+
+###
+
+<p align="left">🔍 Ensuring software bugs go extinct, one QA test at a time 🐞<br> Embracing the #QualityOverQuantity motto in the world of testing 💻 #BugHunter #TestingChampion<br>🖥 Quality Assurance Manual and Automation<br>🌐 I live in Bogor, West Java, Indonesia</p>
+
+###
+
+<h2 align="left">Skills</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="35" alt="java logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="35" alt="selenium logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="35" alt="apache logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="35" alt="android logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo"  />
 </div>
 
+###
 
+<h2 align="left">Tools</h2>
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt="intellij logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="35" alt="pycharm logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="35" alt="jenkins logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="35" alt="postgresql logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/andriyantoSA/andriyantoSA/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/andriyantoSA/count.svg?"  />
+</div>
+
+###
