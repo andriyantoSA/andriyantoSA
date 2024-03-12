@@ -16,8 +16,12 @@
   <p>
     🖥 Quality Assurance Manual and Automation</br>
     🌐 I live in Bogor, West Java, Indonesia</br>
+    
 </p>
 
+
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 
